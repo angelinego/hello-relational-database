@@ -1,0 +1,23 @@
+1. create new file index.js
+
+2. install packages
+
+$ npm install
+
+$ npm install mysql
+
+$ npm init
+
+$ npm install node-mysql
+
+$ npm install moment --save
+
+$ npm install bookshelf --save
+
+$ npm install knex --save
+
+$ npm install express-generator
+
+$ npm i -g node-dev (auto refresh)
+
+3.
